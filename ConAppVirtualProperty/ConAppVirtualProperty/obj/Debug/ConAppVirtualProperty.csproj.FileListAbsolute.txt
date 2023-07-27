@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day14\ConAppVirtualProperty\ConAppVirtualProperty\bin\Debug\ConAppVirtualProperty.exe.config
+D:\Mphasis\Live Session\Day14\ConAppVirtualProperty\ConAppVirtualProperty\bin\Debug\ConAppVirtualProperty.exe
+D:\Mphasis\Live Session\Day14\ConAppVirtualProperty\ConAppVirtualProperty\bin\Debug\ConAppVirtualProperty.pdb
+D:\Mphasis\Live Session\Day14\ConAppVirtualProperty\ConAppVirtualProperty\obj\Debug\ConAppVirtualProperty.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day14\ConAppVirtualProperty\ConAppVirtualProperty\obj\Debug\ConAppVirtualProperty.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day14\ConAppVirtualProperty\ConAppVirtualProperty\obj\Debug\ConAppVirtualProperty.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day14\ConAppVirtualProperty\ConAppVirtualProperty\obj\Debug\ConAppVirtualProperty.exe
+D:\Mphasis\Live Session\Day14\ConAppVirtualProperty\ConAppVirtualProperty\obj\Debug\ConAppVirtualProperty.pdb

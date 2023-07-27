@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day14\ConAppShadowingEx\ConAppShadowingEx\bin\Debug\ConAppShadowingEx.exe.config
+D:\Mphasis\Live Session\Day14\ConAppShadowingEx\ConAppShadowingEx\bin\Debug\ConAppShadowingEx.exe
+D:\Mphasis\Live Session\Day14\ConAppShadowingEx\ConAppShadowingEx\bin\Debug\ConAppShadowingEx.pdb
+D:\Mphasis\Live Session\Day14\ConAppShadowingEx\ConAppShadowingEx\obj\Debug\ConAppShadowingEx.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day14\ConAppShadowingEx\ConAppShadowingEx\obj\Debug\ConAppShadowingEx.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day14\ConAppShadowingEx\ConAppShadowingEx\obj\Debug\ConAppShadowingEx.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day14\ConAppShadowingEx\ConAppShadowingEx\obj\Debug\ConAppShadowingEx.exe
+D:\Mphasis\Live Session\Day14\ConAppShadowingEx\ConAppShadowingEx\obj\Debug\ConAppShadowingEx.pdb
